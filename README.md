@@ -8,7 +8,6 @@
 
 ### 👤 About Me
 - 🌱 Computer Science @ Queen's University (2021–2026)
-- 🌎 Working across enterprise Java, distributed data pipelines, IoT/firmware, and full-stack web — and building tools for myself along the way
 - 🌟 Fun facts: I love working out, reading, and programming!
 
 ---
