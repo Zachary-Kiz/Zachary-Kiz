@@ -45,6 +45,9 @@
 
 ---
 
+### ✨ Let's Connect!
+If you're into full-stack development, or just want to chat about books or movies, feel free to reach out!
+
 <!--
 **Zachary-Kiz/Zachary-Kiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
