@@ -7,7 +7,8 @@
 ---
 
 ### 👤 About Me
-- 🌱 Computer Science @ Queen's University (2021–2026)
+- 🌱 New Grad from Queen's University with Bachelor's of Computer Science
+- ✨ Experience building full-stack applications at Ericsson and in my free time!
 - 🌟 Fun facts: I love working out, reading, and programming!
 
 ---
